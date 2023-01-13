@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;700&display=swap');
+
+.contact-form {
+    text-align: center;
+    position: relative;
+    left: 700px;
+    top: 150px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    background-color: rgb(143, 143, 143);
+    width: 400px;
+    border-radius: 15px;
+}
+
+.input-box {
+    height: 40px;
+    border-radius: 5px;
+}
+
+.button {
+    height: 40px;
+    width: 80px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+}
